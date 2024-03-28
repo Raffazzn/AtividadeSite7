@@ -7,6 +7,10 @@ body{
     height: 1117px;
 }
 
+.div-direita{
+    margin-top: -80px;
+}
+
 .container{
     display: flex;
     
@@ -62,3 +66,29 @@ p{
     margin-top: 50px;
     padding: 0 0 0 493px;
 }
+
+.p2{
+    font-size: 16px;
+    padding: 0 0 0 260px;
+    font-family: Poppins;
+    color:#636162;
+}
+
+.lista-geral{
+    list-style: none;
+    padding: 0 0 0 235px;
+}
+
+.lista{
+    color: #636162;
+    font-family: Poppins;
+}
+
+.texto{
+    width: 537px;
+    height: 50px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: -15 px;
+}
+
