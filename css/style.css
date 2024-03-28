@@ -8,7 +8,7 @@ body{
 }
 
 .div-direita{
-    margin-top: -80px;
+    margin-top: -100px;
 }
 
 .container{
@@ -90,5 +90,64 @@ p{
     border-radius: 5px;
     border: 0px;
     margin-top: -15 px;
+}
+
+.box{
+    width: 20px;
+    height: 20px;
+}
+
+.check{
+    display: flex;
+    padding: 0 0 0 235px;
+}
+
+.p3{
+    width: 300px;
+    padding: 0 0 0 10px;
+    margin-top: 3px;
+    font-family: Poppins;
+}
+
+.check2{
+    display:flex;
+}
+
+.p4{
+    font-family: Poppins;
+    width: 300px;
+    padding: 0 0 0 240px;
+}
+
+.p5{
+    margin-left: 5px;
+}
+
+.box2{
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    border: 1px;
+    margin-top: 14px;
+}
+
+.botao-01{
+    background-color: #736B66;
+    border: 0px;
+    border-radius: 5px;
+    margin-left: 240px;
+    width: 537px;
+    height: 57px;
+    color: white;
+}
+
+span{
+    color: red;
+}
+
+.p6{
+    font-family: Poppins;
+    width: 300px;
+    padding: 0 0 0 380px;   
 }
 
